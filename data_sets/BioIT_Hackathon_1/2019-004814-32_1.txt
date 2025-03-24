@@ -1,0 +1,727 @@
+This file contains full details on each clinical trial selected for download. Where multi-state trials have been downloaded full information for each of the member states/countries involved in the trial are included separately.
+
+Summary
+EudraCT Number: 2019-004814-32
+Sponsor's Protocol Code Number: YH25448-301
+National Competent Authority: Hungary - National Institute of Pharmacy 
+Clinical Trial Type: EEA CTA
+Trial Status: Trial now transitioned
+Date on which this record was first entered in the EudraCT database: 2020-06-02
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004814-32/HU/
+
+A. Protocol Information
+A.1 Member State Concerned: Hungary - National Institute of Pharmacy
+A.2 EudraCT number: 2019-004814-32
+A.3 Full title of the trial: A Phase III, Randomized, Double-blind Study to Assess the Efficacy and Safety of Lazertinib versus Gefitinib as the First-line Treatment in Patients with Epidermal Growth Factor Receptor Sensitizing Mutation Positive, Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+A.3 Full title of the trial (hu): III. fázisú, kettős vak, randomizált vizsgálat a lazertinib vs. gefitinib
+hatásosságának és biztonságosságának értékelésére az epidermális növekedési faktor receptor mutáció
+pozitív, lokálisan előrehaladott vagy metasztatikus, nem kissejtes tüdőkarcinómában szenvedő
+betegeknél elsővonalbeli kezeléseként
+
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: A study to test the efficacy and safety of Lazertinib in the treatment of patients with Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language (hu): Egy vizsgálat a lazertinib hatásosságának és biztonságosságának tesztelésére lokálisan előrehaladott vagy metasztatikus nem kissejtes tüdőkarcinómában szenvedők betegek kezelésében 
+A.3.2 Name or abbreviated title of the trial where available: LASER301
+A.4.1 Sponsor's protocol code number: YH25448-301
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Yuhan Corporation
+B.1.3.4	Country: Korea, Republic of
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Yuhan Corporation
+B.4.2 Country: Korea, Republic of
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: Yuhan Corporation
+B.5.2 Functional name of contact point: Clinical Operation Team
+B.5.3 Address
+B.5.3.1 Street Address: 74, Noryangjin-ro, Dongjak-gu
+B.5.3.2 Town/ city: Seoul
+B.5.3.4 Country: Korea, Republic of
+B.5.4 Telephone number: 8228280181
+B.5.6 E-mail: twan@yuhan.co.kr
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: lazertinib
+D.3.2 Product code: YH25448
+D.3.4 Pharmaceutical form: Film-coated tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Lazertinib mesylate monohydrate
+D.3.9.1 CAS number: 2411549-88-5
+D.3.9.2 Current sponsor code: YH25448AM
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 80 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Iressa
+D.2.1.1.2 Name of the Marketing Authorisation holder: AstraZeneca AB
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Over-encapsulated gefitinib
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Gefitinib
+D.3.9.3 Other descriptive name: Gefitinib
+D.3.9.4 EV Substance Code: SUB20637
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Film-coated tablet
+D.8.4 Route of administration of the placebo: Oral use
+D.8 Placebo: 2
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Capsule, hard
+D.8.4 Route of administration of the placebo: Oral use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Adenocarcinoma of the lung (non-small cell Lung cancer); locally advanced or metastatic, not amenable to curative surgery or radiotherapy
+
+E.1.1.1 Medical condition in easily understood language: Lung Cancer
+E.1.1.2 Therapeutic area: Diseases [C] - Cancer [C04]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 21.0
+E.1.2 Level: LLT
+E.1.2 Classification code: 10001165
+E.1.2 Term: Adenocarcinoma lung stage IV
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 21.0
+E.1.2 Level: LLT
+E.1.2 Classification code: 10001164
+E.1.2 Term: Adenocarcinoma lung stage III
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 21.1
+E.1.2 Level: PT
+E.1.2 Classification code: 10059515
+E.1.2 Term: Non-small cell lung cancer metastatic
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To assess the efficacy of lazertinib compared with gefitinib as measured by progression-free survival 
+E.2.2 Secondary objectives of the trial: 1) To further assess the efficacy of lazertinib compared with gefitinib
+2) To assess overall survival of lazertinib compared with gefitinib
+3) To characterize the pharmacokinetics of lazertinib
+4) To assess the impact of lazertinib compared with gefitinib on patient’s disease-related symptoms and Health Related Quality of Life 
+5) To assess the safety and tolerability profile of lazertinib compared with gefitinib
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Male or female patients must be ≥ 18 years of age and satisfy the legal age of consent in the jurisdiction in which the study is being conducted 
+2. Patients with pathologically confirmed adenocarcinoma of the lung (e.g., this may occur as systemic recurrence after prior surgery for early stage disease or patients may be newly diagnosed with Stage IIIB/C or IV disease). Patients with mixed histology are eligible if adenocarcinoma is the predominant histology
+3. Patients with locally advanced or metastatic NSCLC, not amenable to curative surgery or radiotherapy
+4. Patients with at least 1 of the 2 common EGFR mutations known to be associated with EGFR TKI sensitivity (Ex19del or L858R), either alone or in combination with other EGFR mutations, assessed in tissue biopsy by an accredited local laboratory based on the Qiagen- Therascreen® EGFR Mutation Detection Kit RGQ (Scorpions ARMS), the Amoy Diagnostics-the AmoyDx® EGFR Mutation Test Kit, the PANAGENEPANAMutyperTM or the Roche Diagnostics-Cobas® EGFR Mutation Test v2, or by central testing in a designated laboratory
+5. Mandatory provision of an unstained, archived tumor tissue sample in a quantity sufficient to allow for central analysis of EGFR mutation status for patients
+6. Patients must be treatment-naïve for locally advanced or metastatic NSCLC. (Note: Prior adjuvant and neo-adjuvant therapy (e.g., chemotherapy, radiotherapy, investigational products) for early stage disease is permitted if completed > 12 months prior to randomization provided all other entry criteria are satisfied
+7. Patients must have a WHO performance status score of 0 to 1 with no clinically significant deterioration over the previous 2 weeks before randomization
+8. Patients must have at least 1 measurable lesion, not previously irradiated and not chosen for biopsy during the study Screening period, that can be accurately measured at baseline as ≥10 mm in the longest diameter (except lymph nodes which must have a short axis of ≥15 mm) with computerized tomography (CT) or magnetic resonance imaging (MRI), and which is suitable for accurate repeated measurements. If only 1 measurable lesion exists, it is acceptable to be used (as a target lesion) as long as it has not been previously irradiated and baseline tumor assessment scans are done at least 2 weeks after the screening biopsy is performed
+9. A male patient who has not undergone a vasectomy must agree to follow the contraceptive guidance in Appendix 3 of protocol during the study treatment period and for at least 24 weeks after the last dose of study treatment and refrain from donating sperm during this period
+10. A female patient is eligible to participate if she is not pregnant, not breastfeeding, and at least one of the following conditions applies:
+• Not a woman of childbearing potential (WOCBP) as defined in Appendix 3 of protocol.
+OR
+• A WOCBP who agrees to follow the contraceptive guidance in Appendix 3 from the time of screening until 24 weeks after the last dose of study treatment.
+• A WOCBP must have a negative serum pregnancy test (beta human chorionic gonadotropin) at screening.
+11. Patient must sign an informed consent form (ICF) prior to any study specific procedures which includes compliance with the requirements and restrictions listed in the ICF and in protocol
+
+E.4 Principal exclusion criteria: 1. Symptomatic and unstable brain metastases. 
+2. Leptomeningeal metastases
+3. Symptomatic spinal cord compression. If steroid treatment is not required within at least 2 weeks prior to randomization then the patient may be enrolled.
+4. History of interstitial lung disease (ILD), drug-induced ILD, radiation pneumonitis which required steroid treatment, or any evidence of clinically active ILD.
+5. Any medical conditions requiring chronic continuous oxygen therapy.
+6. History of any malignancy other than the disease under study within 3 years before randomization
+7. Any evidence of severe or uncontrolled systemic diseases, including uncontrolled hypertension and active bleeding diatheses, which in the Investigator’s opinion makes it undesirable for the patient to participate in the study, or which would jeopardize compliance with the protocol.
+8. Any cardiovascular disease as follows:
+• History of symptomatic chronic heart failure or serious cardiac arrhythmia requiring active treatment.
+• History of myocardial infarction or unstable angina within 24 weeks of randomization.
+9. Positive hepatitis B (HBV) surface antigen (HBsAg), Positive hepatitis C antibody (anti-HCV), other clinically active infectious liver disease or confirmed positive human immunodeficiency virus test results.
+10. Refractory nausea and vomiting, chronic gastrointestinal diseases, inability to swallow the formulated product or previous significant bowel resection that would preclude adequate absorption of study treatment.
+11. History of hypersensitivity to active or inactive excipients of investigational product(s), or drugs with a similar chemical structure or class to investigational product(s).
+12. Any history of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption
+13. Clinically significant chronic infection or significant medical or psychiatric illness.
+14. Undergone a bone marrow or solid organ transplant.
+15. Any condition which would prevent patient compliance with study procedures, restrictions, and requirements, as determined by the Investigator.
+16. Prior treatment with any systemic antineoplastic therapy for locally advanced or metastatic NSCLC (IIIB/C or IV) including chemotherapy, biological therapy, immunotherapy, or any investigational drug.
+17. Any prior treatment with an epidermal growth factor receptor-tyrosine kinase inhibitor.
+18. Major surgery within 4 weeks of randomization.
+19. Radiotherapy treatment to more than 30% of the bone marrow or with a wide field of radiation within 4 weeks of randomization.
+20. Patients currently receiving medications or herbal supplements known to be potent CYP3A4 inhibitors or inducers
+21. Patients receiving unstable doses of warfarin as anticoagulant
+22. Patients who have been treated with alternative anti-cancer treatment within 5 half-lives of the treatment or within 4 weeks (whichever is longer) prior to randomization.
+23. Any unresolved toxicities from prior therapy, greater than CTCAE grade 1 at randomization, with the exception of alopecia and grade 2, prior chemotherapy-induced neuropathy.
+24. Patients who have been treated with an investigational drug within 5 half-lives of the compound or within 4 weeks (whichever is longer) prior to randomization.
+25. Patient has any of following cardiac criteria:
+• Any clinically important abnormalities in rhythm, conduction, or morphology of resting ECG (e.g., complete left bundle branch block, third degree heart block, second degree heart block, PR interval >250msec).
+• Mean resting QTc >470 msec obtained from 3 electrocardiograms (ECGs), using the screening ECG machine derived QTc value.
+• Any factors that increase the risk of QTc prolongation or risk of arrhythmic events such as heart failure, hypokalemia, congenital long QT syndrome, family history of long QT syndrome, or unexplained sudden death under 40 years of age in first degree relatives or any concomitant medications known to prolong QT interval or induce Torsades de Pointes (Appendix 6).
+• Left ventricular ejection fraction <50%
+26. Inadequate bone marrow reserve or organ function as demonstrated by any of the following laboratory values:
+• Absolute neutrophil count <1.5 x 10^9 /L.
+• Platelet count <100 x 10^9 /L.
+• Hemoglobin <90 g/L.
+• Alanine aminotransferase >2.5 times the upper limit of normal (ULN) if no demonstrable liver metastases, or >5x ULN in presence of liver metastases.
+• Aspartate aminotransferase >2.5x ULN if no demonstrable liver metastases or >5x ULN in the presence of liver metastases.
+• Total bilirubin >1.5x ULN if no liver metastases or >3x ULN in the presence of documented Gilbert’s syndrome (unconjugated hyperbilirubinemia) or liver metastases.
+• Serum creatinine >1.5x ULN concurrent with creatinine clearance < 50 ml/min measured by the study site’s standard method (e.g., Cockcroft and Gault equation). Confirmation of creatinine clearance is only required when creatinine is >1.5x ULN
+
+E.5 End points
+E.5.1 Primary end point(s): Progression-free survival according to RECIST v1.1 by Investigator assessment.
+
+
+E.5.1.1 Timepoint(s) of evaluation of this end point: October 2022
+E.5.2 Secondary end point(s): • Objective Response Rate (ORR)
+• Duration of Response (DoR)
+• Disease Control Rate (DCR)
+• Depth of Response
+• Time to Response
+All according to RECIST v1.1 by Investigator assessments.
+• Overall survival (OS)
+• Plasma concentrations of lazertinib at pre-dose, 1 to 3 hours, and 4 to 6 hours post-dose
+• Cerebrospinal fluid (CSF) concentrations of lazertinib
+Change from baseline in :
+• European Organization for Research and Treatment of Cancer Quality of Life Questionnaire – Core 30 items (EORTC QLQ-C30)
+• European Organization for Research and Treatment of Cancer Quality of Life Questionnaire – Lung Cancer 13 items (EORTC QLQ-LC13)
+• Euro-Quality of Life-5 Dimension-5 (EQ-5D-5L) level (EQ-5D-5L)EQ-dd
+
+E.5.2.1 Timepoint(s) of evaluation of this end point: October 2022 and October 2024
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Yes
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: Yes
+E.6.13 Others: Yes
+E.6.13.1 Other scope of the trial description: 1. Exploration of resistance mutation types using NGS from longitudinal plasma samples
+2. Relationship between selected efficacy/PK/safety endpoints with the tumor and/or blood-borne biomarkers
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: Yes
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 2
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 6
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 13
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+Australia
+Philippines
+Serbia
+Singapore
+Thailand
+Turkey
+China
+Greece
+Hungary
+Korea, Republic of
+Malaysia
+Russian Federation
+Taiwan
+Ukraine
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: The last visit of the last patient undergoing the study (last patient last visit LPLV). 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 3
+E.8.9.1 In the Member State concerned months: 10
+E.8.9.1 In the Member State concerned days: 13
+E.8.9.2 In all countries concerned by the trial years: 4
+E.8.9.2 In all countries concerned by the trial months: 5
+E.8.9.2 In all countries concerned by the trial days: 1
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 380
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 30
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 30
+F.4.2.2 In the whole clinical trial: 380
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): After DB and OL period of treatment post study treatment assessment will be initiated at the time study treatment is permanently discontinued. This may include: discontinuation visit, 28-Day safety follow-up visit, progression follow -up visit (every 6 weeks), survival follow-up visit (every 6 weeks).
+ 
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2020-07-24
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2020-06-22
+
+P. End of Trial
+P. End of Trial Status: Trial now transitioned
+
+Summary
+EudraCT Number: 2019-004814-32
+Sponsor's Protocol Code Number: YH25448-301
+National Competent Authority: Greece - EOF 
+Clinical Trial Type: EEA CTA
+Trial Status: Trial now transitioned
+Date on which this record was first entered in the EudraCT database: 2020-06-17
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004814-32/GR/
+
+A. Protocol Information
+A.1 Member State Concerned: Greece - EOF
+A.2 EudraCT number: 2019-004814-32
+A.3 Full title of the trial: A Phase III, Randomized, Double-blind Study to Assess the Efficacy and Safety of Lazertinib versus Gefitinib as the First-line Treatment in Patients with Epidermal Growth Factor Receptor Sensitizing Mutation Positive, Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: A study to test the efficacy and safety of Lazertinib in the treatment of patients with Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+
+A.3.2 Name or abbreviated title of the trial where available: LASER301
+A.4.1 Sponsor's protocol code number: YH25448-301
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Yuhan Corporation
+B.1.3.4	Country: Korea, Republic of
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Yuhan Corporation
+B.4.2 Country: Korea, Republic of
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: Yuhan Corporation
+B.5.2 Functional name of contact point: Clinical Operation Team
+B.5.3 Address
+B.5.3.1 Street Address: 74, Noryangjin-ro, Dongjak-gu
+B.5.3.2 Town/ city: Seoul
+B.5.3.4 Country: Korea, Republic of
+B.5.4 Telephone number: 8228280181
+B.5.6 E-mail: twan@yuhan.co.kr
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: lazertinib
+D.3.2 Product code: YH25448
+D.3.4 Pharmaceutical form: Film-coated tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Lazertinib mesylate monohydrate
+D.3.9.1 CAS number: 2411549-88-5
+D.3.9.2 Current sponsor code: YH25448AM
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 80 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Iressa
+D.2.1.1.2 Name of the Marketing Authorisation holder: AstraZeneca AB
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Over-encapsulated gefitinib
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Gefitinib
+D.3.9.3 Other descriptive name: Gefitinib
+D.3.9.4 EV Substance Code: SUB20637
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Film-coated tablet
+D.8.4 Route of administration of the placebo: Oral use
+D.8 Placebo: 2
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Capsule, hard
+D.8.4 Route of administration of the placebo: Oral use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Adenocarcinoma of the lung (non-small cell Lung cancer); locally advanced or metastatic, not amenable to curative surgery or radiotherapy
+
+E.1.1.1 Medical condition in easily understood language: Lung Cancer
+E.1.1.2 Therapeutic area: Diseases [C] - Cancer [C04]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 21.0
+E.1.2 Level: LLT
+E.1.2 Classification code: 10001165
+E.1.2 Term: Adenocarcinoma lung stage IV
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 21.0
+E.1.2 Level: LLT
+E.1.2 Classification code: 10001164
+E.1.2 Term: Adenocarcinoma lung stage III
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 27.0
+E.1.2 Level: PT
+E.1.2 Classification code: 10059515
+E.1.2 Term: Non-small cell lung cancer metastatic
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To assess the efficacy of lazertinib compared with gefitinib as measured by progression-free survival 
+E.2.2 Secondary objectives of the trial: 1) To further assess the efficacy of lazertinib compared with gefitinib
+2) To assess overall survival of lazertinib compared with gefitinib
+3) To characterize the pharmacokinetics of lazertinib 
+4) To assess the impact of lazertinib compared with gefitinib on patient’s disease-related symptoms and Health Related Quality of Life 
+5) To assess the safety and tolerability profile of lazertinib compared with gefitinib
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Male or female patients must be ≥ 18 years of age and satisfy the legal age of consent in the jurisdiction in which the study is being conducted 
+2. Patients with pathologically confirmed adenocarcinoma of the lung (e.g., this may occur as systemic recurrence after prior surgery for early stage disease or patients may be newly diagnosed with Stage IIIB/C or IV disease). Patients with mixed histology are eligible if adenocarcinoma is the predominant histology
+3. Patients with locally advanced or metastatic NSCLC, not amenable to curative surgery or radiotherapy
+4. Patients with at least 1 of the 2 common EGFR mutations known to be associated with EGFR TKI sensitivity (Ex19del or L858R), either alone or in combination with other EGFR mutations, assessed in tissue biopsy by an accredited local laboratory based on the Qiagen- Therascreen® EGFR Mutation Detection Kit RGQ (Scorpions ARMS), the Amoy Diagnostics-the AmoyDx® EGFR Mutation Test Kit, the PANAGENEPANAMutyperTM or the Roche Diagnostics-Cobas® EGFR Mutation Test v2, or by central testing in a designated laboratory
+5. Mandatory provision of an unstained, archived tumor tissue sample in a quantity sufficient to allow for central analysis of EGFR mutation status for patients
+6. Patients must be treatment-naïve for locally advanced or metastatic NSCLC. (Note: Prior adjuvant and neo-adjuvant therapy (e.g., chemotherapy, radiotherapy, investigational products) for early stage disease is permitted if completed > 12 months prior to randomization provided all other entry criteria are satisfied
+7. Patients must have a WHO performance status score of 0 to 1 with no clinically significant deterioration over the previous 2 weeks before randomization
+8. Patients must have at least 1 measurable lesion, not previously irradiated and not chosen for biopsy during the study Screening period, that can be accurately measured at baseline as ≥10 mm in the longest diameter (except lymph nodes which must have a short axis of ≥15 mm) with computerized tomography (CT) or magnetic resonance imaging (MRI), and which is suitable for accurate repeated measurements. If only 1 measurable lesion exists, it is acceptable to be used (as a target lesion) as long as it has not been previously irradiated and baseline tumor assessment scans are done at least 2 weeks after the screening biopsy is performed
+9. A male patient who has not undergone a vasectomy must agree to follow the contraceptive guidance in Appendix 3 of protocol during the study treatment period and for at least 24 weeks after the last dose of study treatment and refrain from donating sperm during this period
+10. A female patient is eligible to participate if she is not pregnant, not breastfeeding, and at least one of the following conditions applies:
+• Not a woman of childbearing potential (WOCBP) as defined in Appendix 3 of protocol.
+OR
+• A WOCBP who agrees to follow the contraceptive guidance in Appendix 3 from the time of screening until 24 weeks after the last dose of study treatment.
+• A WOCBP must have a negative serum pregnancy test (beta human chorionic gonadotropin) at screening.
+11. Patient must sign an informed consent form (ICF) prior to any study specific procedures which includes compliance with the requirements and restrictions listed in the ICF and in protocol
+
+E.4 Principal exclusion criteria: 1. Symptomatic and unstable brain metastases. 
+2. Leptomeningeal metastases 
+3.Symptomatic spinal cord compression. If steroid treatment is not required within at least 2 weeks prior to randomization then the patient may be enrolled 
+4. History of interstitial lung disease (ILD), drug-induced ILD, radiation
+pneumonitis which required steroid treatment, or any evidence of
+clinically active ILD 
+5.Any medical conditions requiring chronic continuous oxygen therapy
+6.History of any malignancy other than the disease under study within 3
+years before randomization 
+7.Αny evidence of severe or uncontrolled systemic diseases, including uncontrolled hypertension and active bleeding diatheses,which in the 
+Investigator's opinion makes it undesirable for the patient to participate in the study,or which would jeopardize compliance with the protocol 
+8.Any cardiovascular disease as follows• History of symptomatic chronic heart failure or serious cardiac arrhythmia requiring active treatment• History of myocardial infarction or unstable angina within 24 weeks of randomization 
+9.Positive hepatitis B (HBV) surface antigen (HBsAg), Positive hepatitis C antibody (anti-HCV),other clinically active infectious liver disease or confirmed positive human immunodeficiency virus test results 
+10. Refractory nausea and vomiting, chronic gastrointestinal diseases,inability to swallow the formulated product or previous significant bowel resection that would preclude adequate absorption of study treatment
+11.History of hypersensitivity to active or inactive excipients of investigational product(s),or drugs with a similar chemical structure or class to investigational product(s) 
+12. Any history of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption 
+13.Clinically significant chronic infection or significant medical or psychiatric illness 14.Undergone a bone marrow or solid organ transplant 
+15. Any condition which would prevent patient compliance with study procedures, restrictions,and requirements, as determined by the Investigator 
+16.Prior treatment with any systemic antineoplastic therapy for locally advanced or metastatic NSCLC (IIIB/C or IV) including chemotherapy,biological therapy, immunotherapy, or any investigational drug
+17.Any prior treatment with an epidermal growth factor receptortyrosine kinase inhibitor.
+18.Major surgery within 4 weeks of randomization
+19. Radiotherapy treatment to more than 30% of the bone marrow or with a wide field of radiation within 2 weeks of randomization
+20.Patients currently receiving medications or herbal supplements
+known to be potent CYP3A4 inhibitors or inducers (Appendix 6 of protocol)
+21.Patients currently receiving the unstable doses of warfarin as an anticoagulant
+22.Patients who have been treated with alternative anti-cancer treatment within 5 half-lives of the treatment or within 4 weeks (whichever is longer) prior to randomization
+23.Any unresolved toxicities from prior therapy, greater than CTCAE grade 1 at randomization,with the exception of alopecia and grade 2,prior chemotherapy-induced neuropathy 
+24.Patients who have been treated with an investigational drug within 5
+half-lives of the compound or within 4 weeks (whichever is longer) prior to randomization
+25. Patient has any of following cardiac criteria• Any clinically important abnormalities in rhythm, conduction, or morphology of resting ECG (e.g., complete left bundle branch block, third degree heart block, second degree heart block, PR interval >250msec)•Μean resting QTc >470 msec obtained from 3 electrocardiograms(ECGs),using the screening ECG machine derived QTc value•Any factors that increase the risk of QTc prolongation or risk ofarrhythmic events such as heart failure, hypokalemia, congenital long QT
+syndrome, family history of long QT syndrome, or unexplained sudden death under 40 years of age in first degree relatives or any concomitant medications known to prolong QT interval or induce Torsades de Pointes(Appdx. 6)• Left ventricular ejection fraction <50% 
+26.Ιnadequate bone marrow reserve or organ function as demonstrated
+by any of the following laboratory values•Αbsolute neutrophil count <1.5 x 10^9 /L
+• Platelet count <100 x 10^9 /L• Hemoglobin <90 g/L• Alanine aminotransferase >2.5 times the upper limit of normal (ULN) if no demonstrable liver metastases, or >5x ULN in presence of liver metastases• Aspartate aminotransferase >2.5x ULN if no demonstrable liver metastases or >5x ULN in the presence of liver metastases• Total bilirubin >1.5x ULN if no liver metastases or >3x ULN in the presence of documented Gilbert's syndrome (unconjugated hyperbilirubinemia) or liver metastases• Serum creatinine >1.5x ULN concurrent with creatinine clearance < 50ml/min measured by the study site's standard method (e.g. Cockcroft and Gault equation). Confirmation of creatinine clearance is only
+required when creatinine is >1.5x ULN
+E.5 End points
+E.5.1 Primary end point(s): Progression-free survival according to RECIST v1.1 by Investigator assessment.
+E.5.1.1 Timepoint(s) of evaluation of this end point: October 2022
+E.5.2 Secondary end point(s): • Objective Response Rate (ORR)
+• Duration of Response (DoR)
+• Disease Control Rate (DCR)
+• Depth of Response
+• Time to Response
+All according to RECIST v1.1 by Investigator assessments.
+• Overall survival (OS)
+• Plasma concentrations of lazertinib at pre-dose, 1 to 3 hours, and 4 to
+6 hours post-dose
+• Cerebrospinal fluid (CSF) concentrations of lazertinib
+Change from baseline in :
+• European Organization for Research and Treatment of Cancer Quality
+of Life Questionnaire – Core 30 items (EORTC QLQ-C30)
+• European Organization for Research and Treatment of Cancer Quality
+of Life Questionnaire – Lung Cancer 13 items (EORTC QLQ-LC13)
+• Euro-Quality of Life-5 Dimension-5 (EQ-5D-5L) level (EQ-5D-5L)EQ-dd
+E.5.2.1 Timepoint(s) of evaluation of this end point: October 2022 and October 2024
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Yes
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: Yes
+E.6.13 Others: Yes
+E.6.13.1 Other scope of the trial description: 1. Exploration of resistance mutation types using NGS from longitudinal plasma samples
+2. Relationship between selected efficacy/PK/safety endpoints with the tumor and/or blood-borne biomarkers
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: Yes
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 2
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 6
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 13
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+Malaysia
+Philippines
+Singapore
+Ukraine
+Taiwan
+Australia
+China
+Korea, Republic of
+Russian Federation
+Serbia
+Thailand
+Greece
+Hungary
+Türkiye
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: The last visit of the last patient undergoing the study (last patient last visit LPLV). 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 4
+E.8.9.1 In the Member State concerned months: 5
+E.8.9.1 In the Member State concerned days: 1
+E.8.9.2 In all countries concerned by the trial years: 4
+E.8.9.2 In all countries concerned by the trial months: 5
+E.8.9.2 In all countries concerned by the trial days: 1
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 380
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 24
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 30
+F.4.2.2 In the whole clinical trial: 380
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): After DB and OL period of treatment post study treatment assessment will be initiated at the time study treatment is permanently discontinued. This may include: discontinuation visit, 28-Day safety follow-up visit, progression follow -up visit (every 6 weeks), survival follow-up visit (every 6 weeks).
+ 
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2020-07-31
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2020-07-23
+
+P. End of Trial
+P. End of Trial Status: Trial now transitioned
+

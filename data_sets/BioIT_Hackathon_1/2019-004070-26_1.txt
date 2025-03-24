@@ -1,0 +1,409 @@
+This file contains full details on each clinical trial selected for download. Where multi-state trials have been downloaded full information for each of the member states/countries involved in the trial are included separately.
+
+Summary
+EudraCT Number: 2019-004070-26
+Sponsor's Protocol Code Number: BRICE
+National Competent Authority: Italy - Italian Medicines Agency 
+Clinical Trial Type: EEA CTA
+Trial Status: Prematurely Ended
+Date on which this record was first entered in the EudraCT database: 2021-06-08
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004070-26/IT/
+
+A. Protocol Information
+A.1 Member State Concerned: Italy - Italian Medicines Agency
+A.2 EudraCT number: 2019-004070-26
+A.3 Full title of the trial: A Phase 1/2 Study Exploring Safety, Tolerability and Efficacy of BRIgatinib in Combination With CEtuximab in Subjects With Advanced EGFR mutated or ALK or ROS1 positive Non-Small Cell Lung Cancer and Expansion Phase in Subjects with Advanced EGFR mutated Non-Small Cell Lung Cancer who are resistant to EGFR tyrosine kinase inhibitors
+A.3 Full title of the trial (it): Studio di fase 1/2 che studia la sicurezza, la tollerabilità e l'efficacia di BRIgatinib in combinazione con CEtuximab in pazienti con carcinoma polmonare non a piccole cellule avanzato (NSCLC) con mutazioni di EGFR o positivi per riarrangiamento di ALK o ROS1 e fase di espansione in pazienti con NSCLC EGFR mutati  resistenti agli inibitori tirosin-chinasici di EGFR (EGFR-TKI)
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: A Phase 1/2 Study Exploring Safety, Tolerability and Efficacy of BRIgatinib in Combination With CEtuximab in Subjects With Advanced EGFR mutated or ALK or ROS1 positive Non-Small Cell Lung Cancer and Expansion Phase in Subjects with Advanced EGFR mutated Non-Small Cell Lung Cancer who are resistant to EGFR tyrosine kinase inhibitors
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language (it): Studio di fase 1/2 che studia la sicurezza, la tollerabilità e l'efficacia di BRIgatinib in combinazione con CEtuximab in pazienti con carcinoma polmonare non a piccole cellule avanzato (NSCLC) con mutazioni di EGFR o positivi per riarrangiamento di ALK o ROS1 e fase di espansione in pazienti con NSCLC EGFR mutati  resistenti agli inibitori tirosin-chinasici di EGFR (EGFR-TKI)
+A.3.2 Name or abbreviated title of the trial where available: BRICE
+A.3.2 Name or abbreviated title of the trial where available (it): BRICE
+A.4.1 Sponsor's protocol code number: BRICE
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: FONDAZIONE RICERCA TRASLAZIONALE (FORT)
+B.1.3.4	Country: Italy
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Takeda Italia S.p.A
+B.4.2 Country: Italy
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: Clinical Research Technology
+B.5.2 Functional name of contact point: Clinical Operations
+B.5.3 Address
+B.5.3.1 Street Address: Piazza Nicola Amore, 10
+B.5.3.2 Town/ city: Napoli
+B.5.3.3 Post code: 80138
+B.5.3.4 Country: Italy
+B.5.4 Telephone number: 0897724155
+B.5.5 Fax number: 08119572570
+B.5.6 E-mail: brice@cr-technology.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ALUNBRIG
+D.3.2 Product code: [Brigatinib]
+D.3.4 Pharmaceutical form: Film-coated tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.9.1 CAS number: 1197953-54-0
+D.3.9.2 Current sponsor code: Brigatinib
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 30 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Erbitux
+D.2.1.1.2 Name of the Marketing Authorisation holder: Merck Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Erbitux
+D.3.2 Product code: [Cetuximab]
+D.3.4 Pharmaceutical form: Solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: CETUXIMAB
+D.3.9.1 CAS number: 205923-56-4
+D.3.9.2 Current sponsor code: Cetuximab
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: è un anticorpo monoclonale chimerico IgG prodotto in una linea cellulare di mammifero (Sp2/0) mediante tecniche di DNA ricombinante, diretto contro il recettore del fattore di crescita epidermico (EGF
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Advanced or metastatic epidermal growth factor receptor (EGFR) mutation positive non-small cell lung cancer (NSCLC) with acquired resistance to approved EGFR tyrosine kinase inhibitors (TKI); advanced or metastatic ALK or ROS1 positive NSCLC with acquired resistance to specific available inhibitors.
+E.1.1 Medical condition(s) being investigated (it): carcinoma polmonare non a piccole cellule (NSCLC) avanzato o metastatico positivo per la mutazione del recettore del fattore di crescita epidermico (EGFR) con resistenza acquisita agli inibitori tirosin chinasi della EGFR (TKI) approvati; NSCLC avanzato o metastatico positivo per ALK o ROS1 con resistenza acquisita a specifici inibitori disponibili.
+E.1.1.1 Medical condition in easily understood language: Advanced or metastatic epidermal growth factor receptor (EGFR) mutation positive non-small cell lung cancer (NSCLC) with acquired resistance to approved EGFR tyrosine kinase inhibitors (TKI)
+E.1.1.1 Medical condition in easily understood language (it): NSCLC avanzato o metastatico positivo per la mutazione del recettore del fattore di crescita epidermico (EGFR) con resistenza acquisita agli inibitori tirosin chinasi della EGFR (TKI) approvati
+E.1.1.2 Therapeutic area: Diseases [C] - Cancer [C04]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 21.1
+E.1.2 Level: PT
+E.1.2 Classification code: 10061873
+E.1.2 Term: Non-small cell lung cancer
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: There are study two phases with different primary and secondary objectives.
+
+Primary objectives:
+·	Phase 1: To evaluate the safety and tolerability and determine the maximum tolerated dose (MTD) or a pharmacologically active dose (PAD) of brigatinib in combination with cetuximab in patients with advanced EGFR mutation positive cancers and ALK or ROS1 positive tumors who are resistant to available inhibitors.
+·	Phase 2: To evaluate the activity of brigatinib in combination with cetuximab in EGFR mutation positive NSCLC who develop an on-target mechanism of resistance, i.e. secondary or tertiary resistance mutations of EGFR (secondary/tertiary mutations of EGFR)
+E.2.1 Main objective of the trial (it): Ci sono due fasi di studio con differenti obiettivi primari e secondari:
+Obiettivi Primari:
+Fase 1: Valutare la sicurezza e la tollerabilità e determinare la Massima Dose Tollerata (MTD) o la dose farmacologicamente attiva (PAD) del brigatinib in combinazione con il cetuximab in pazienti con carcinoma avanzato con mutazioni di EGFR o positivi per riarrangiamento di ALK o ROS1 che sono resistenti agli inibitori disponibili.
+Phase 2: Valutare l’attività del brigatinib in combinazione con il cetuximab in pazienti con carcinoma polmonare non a piccole cellule (NSCLC) con mutazioni di EGFR che hanno sviluppato meccanismi di resistenza ai farmaci a bersaglio molecolare EGFR-TKI, cioè mutazioni di resistenza secondarie o terziarie dell'EGFR.
+E.2.2 Secondary objectives of the trial: ·	Phase 1: To evaluate the activity of brigatinib in combination with cetuximab in patients with EGFR mutated solid tumors and ALK and ROS1 positive tumors that are resistant to available inhibitors.
+·	Phase 2: To evaluate the safety and tolerability of brigatinib and cetuximab at the MTD or PAD in EGFR mutation positive NSCLC who develop an .on-target mechanism of resistance to available TKIs, i.e. secondary or tertiary resistance mutations of EGFR. 
+·	Phase 2: To evaluate the efficacy of brigatinib in combination with cetuximab in EGFR mutation positive NSCLC who develop a non-target mechanism of resistance to available TKIs, i.e. secondary or tertiary resistance mutations of EGFR.
+E.2.2 Secondary objectives of the trial (it): Fase 1: Valutare l’attività del brigatinib in combinazione con il cetuximab in pazienti con tumori solidi EGFR mutati e positivi ad ALK o ROS 1 che sono resistenti agli inibitori disponibili.
+Fase 2: Valutare la sicurezza e la tollerabilità del brigatinib e cetuximab alla MTD o PAD in pazienti con carcinoma polmonare non a piccole cellule (NSCLC) con mutazioni di EGFR che hanno sviluppato meccanismi di resistenza ai farmaci a bersaglio molecolare EGFR-TKI, cioè mutazioni di resistenza secondarie o terziarie dell'EGFR.
+Fase 2: Valutare l’efficacia del brigatinib in combinazione con il cetuximab in pazienti con carcinoma polmonare non a piccole cellule (NSCLC) con mutazioni di EGFR che hanno sviluppato meccanismi di resistenza ai farmaci a bersaglio molecolare EGFR-TKI, cioè mutazioni di resistenza secondarie o terziarie dell'EGFR.
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: Inclusion criteria 	Part 1 only
+1)	Histologically confirmed advanced EGFR mutated or ALK positive or ROS1 positive tumors resistant to available specific inhibitors. 
+Part 2 only
+1)	Acquired resistance to EGFR TKIs defined as progression of disease according to RECIST 1.1 during osimertinib treatment and presence of on-target mechanism of resistance, i.e. secondary or tertiary resistance mutations of EGFR, on circulating tumor DNA or tumor tissue obtained before treatment start and after any intervening systemic treatment
+Parts 1 and 2
+1)	Age 18 years or older
+2)	Willingness to provide written informed consent.
+3)	Life expectancy >12 weeks.
+4)	ECOG performance status of 0 to 1.
+5)	Presence of measurable disease per RECIST v1.1 as determined by the site study team. Tumor lesions situated in a previously irradiated area are considered measurable if progression has been demonstrated in such lesions. The lesion selected for pre- and/or post-treatment biopsy cannot be the only measurable lesion.
+6)	Female patients should be using adequate contraceptive measures, should not be breastfeeding until 120 days after the last dose, and must have a negative pregnancy test (serum or urine) prior to first dose of study drug (within 72 hours); or female patients must have an evidence of non-child-bearing potential by fulfilling one of the following criteria at screening:
+a.	Post-menopausal defined as aged more than 50 years and amenorrheic for at least 12 months following cessation of all exogenous hormonal treatments.
+b.	Women under 50 years old would be consider postmenopausal if they have been amenorrheic for 12 months or more following cessation of exogenous hormonal treatments and with luteinizing hormone (LH) and follicle-stimulating hormone (FSH) levels in the post-menopausal range for the institution.
+c.	Documentation of irreversible surgical sterilization by hysterectomy, bilateral oophorectomy, or bilateral salpingectomy but not tubal ligation.
+Female patients must meet 1 of the following: 
+•	Postmenopausal for at least 1 year before the screening visit, or
+•	Surgically sterile, or
+•	If they are of childbearing potential, agree to practice 2 effective methods of contraception from the time of signing of the informed consent form through 4 months after the last dose of study drug, or agree to completely abstain from heterosexual intercourse.
+Brigatinib may decrease effectiveness of hormonal contraceptives, therefore, women are recommended to use non-hormonal methods of contraception. Highly effective non-hormonal birth control for women of child bearing potential with male partners includes:
+
+•	Sexual abstinence (no sexual intercourse)
+•	Intrauterine device (IUD) or intrauterine system (IUS)
+•	Bilateral tubal ligation (both tubes tied)
+•	Vasectomized partner
+7)	Male patients should be willing to use barrier contraception during the entire study treatment period and through 4 months after the last dose of study drug, or completely abstain from heterosexual intercourse
+E.3 Principal inclusion criteria (it): Solo Fase  1
+Conferma istologica di tumori avanzati EGFR mutati o positivi per ALK o ROS1 resistenti agli inibitori specifici disponibili.
+Solo Fase 2
+Resistenza acquisita ai TKI dell'EGFR definita come progressione della malattia secondo RECIST 1.1 durante il trattamento con osimertinib e presenza di un meccanismo di resistenza on target, ad esempio mutazioni di resistenza secondarie o terziarie dell'EGFR, sul DNA tumorale circolante o sul tessuto tumorale ottenuto prima dell'inizio del trattamento e dopo qualsiasi trattamento sistemico.
+Parte 1 e 2
+1.	Età = 18 anni.
+2.	Disponibilità a fornire il consenso informato scritto.
+3.	Aspettativa di vita > 12 settimane.
+4.	ECOG performance status da 0 a 1.
+5.	Presenza di malattia misurabile in accordo ai RECIST v1.1 come determinato dal team di studio del centro. Le lesioni tumorali situate in un'area precedentemente irradiata sono considerate misurabili se la progressione è stata dimostrata in tali lesioni. La lesione selezionata per la biopsia pre- e/o post-trattamento non può essere l'unica lesione misurabile.
+6.	Le pazienti di sesso femminile devono utilizzare misure contraccettive adeguate, non devono allattare fino a 120 giorni dopo l'ultima dose e devono avere un test di gravidanza negativo (siero o urina) prima della prima dose del farmaco in studio (entro 72 ore); in alternativa le pazienti di sesso femminile devono avere un’evidenza di potenziale non fertilità soddisfacendo uno dei seguenti criteri allo screening:
+a)	Stato post-menopausale definito come età superiore a 50 anni e amenorrea per almeno 12 mesi dopo la cessazione di tutti i trattamenti ormonali esogeni.
+b)	Donne sotto i 50 anni sono considerate in postmenopausa se sono state amenorroiche per 12 mesi o più dopo la cessazione dei trattamenti ormonali esogeni e con livelli di ormone luteinizzante (LH) e ormone follicolo-stimolante (FSH) nel range post-menopausale dell’ospedale.
+c)	Documentata sterilizzazione chirurgica irreversibile mediante isterectomia, ovariectomia bilaterale o salpingectomia bilaterale ma non legatura delle tube.
+Le pazienti di sesso femminile devono soddisfare uno dei seguenti criteri:
+• Stato postmenopausale per almeno 1 anno prima della visita di screening, o
+• Sterilità Chirurga, o
+• Se in età fertile, utilizzo di 2 metodi contraccettivi efficaci dal momento della firma del modulo di consenso informato fino a 4 mesi dopo l'ultima dose del farmaco in studio, o accettare di astenersi completamente dai rapporti eterosessuali.
+Brigatinib può diminuire l'efficacia dei contraccettivi ormonali, pertanto si raccomanda alle donne di utilizzare metodi contraccettivi non ormonali. Il controllo delle nascite non ormonale altamente efficace per le donne in età fertile con partner maschili si può perseguire con:
+• Astinenza sessuale (nessun rapporto sessuale)
+• Dispositivo intrauterino (IUD) o sistema intrauterino (IUS)
+• Legatura bilaterale delle tube (entrambe le tube legate)
+• Partner vasectomizzato
+7.	I pazienti di sesso maschile devono essere disposti a utilizzare la contraccezione di barriera durante l'intero periodo di trattamento in studio e fino a 4 mesi dopo l'ultima dose del farmaco in studio, o astenersi completamente da rapporti eterosessuali
+E.4 Principal exclusion criteria: 1)	Off target mechanisms of actions, such as mutations or amplification of other genes, changes of histology, etc.
+2)	Lab assessments as follows:
+a.	Absolute neutrophil count <1.5 × 109/L.
+b.	Platelet count <100 × 109/L.
+c.	Hemoglobin <9 g/dL (transfusion is acceptable to meet this criterion).
+d.	Serum creatinine =1.5 × institutional upper limit of normality (ULN) OR measured or calculated creatinine clearance (glomerular filtration rate can also be used in place of creatinine or CrCl) <50 mL/min for subjects with creatinine levels >1.5 × institutional ULN).
+e.	Aspartate aminotransferase, alanine aminotransferase, and alkaline phosphatase =2.5 × ULN. Subjects with 1) bone metastases and 2) no hepatic parenchymal metastases on screening radiographic examinations may enroll if the alkaline phosphatase is <5 × ULN. Subjects with hepatic parenchymal metastases on screening radiographic examinations may enroll if the aspartate aminotransferase and alanine aminotransferase are >2.5 × ULN only with medical monitor approval.
+f.	Total bilirubin =1.5 × ULN. 
+g.	International normalized ratio or prothrombin time (PT) >1.5 × ULN.
+h.	Activated partial thromboplastin time (aPTT) >1.5 × ULN.
+3)	Anticancer medications or investigational drugs within the following ranges:
+a.	<14 days for chemotherapy, targeted small-molecule therapy or radiation therapy;
+b.	<28 days or 5-half-lives (whichever is longer) before first dose of investigational combination therapy. 
+4)	Subjects with previous grade 3 or 4 adverse event to anti-EGFR treatment, even if the toxicity is related only to laboratory anomalies and the subjects are asymptomatic
+5)	History or the presence at baseline of pulmonary interstitial disease, drug-related pneumonitis, or radiation pneumonitis
+6)	Subjects who have not recovered adequately from toxicity and/or complications from surgical intervention prior to starting therapy.
+8)	Evidence or history of interstitial lung disease or active non-infectious pneumonitis.
+9)	Concomitant medication with strong inhibitors or inducers of CYP2C8 and CYP3A4.
+10)	Known active CNS metastases. Subjects with previously treated brain metastases may participate provided they are stable (without evidence of progression by imaging for at least 4 weeks before the first dose of study treatment and no need of changes to corticosteroids dose for the management of neurologic symptoms).
+11)	Significant, uncontrolled, or active cardiovascular disease, specifically including
+12)	Major surgery within 30 days of the first dose of brigatinib. Minor surgical procedures such as catheter placement or minimally invasive biopsies are allowed.
+13)	Another primary malignancy other than NSCLC, except for adequately treated nonmelanoma skin cancer or cervical cancer in situ; definitively treated nonmetastatic prostate cancer; or patients with another primary malignancy who are definitively relapse-free with at least 3 years elapsed since the diagnosis of the other primary malignancy.
+14)	Symptomatic brain metastasis (parenchymal or leptomeningeal). Patients with asymptomatic brain metastasis or who have stable symptoms that did not require an increased dose of corticosteroids to control symptoms in the past 7 days before the first dose of brigatinib may be enrolled.
+15)	Current spinal cord compression (symptomatic or asymptomatic and detected by radiographic imaging). Patients with leptomeningeal disease and without cord compression are allowed
+16)	Inability to swallow food or any condition of the upper gastrointestinal tract that precludes administration of oral medications.
+17)	Subject has a known history of or is positive for hepatitis B (HBsAg reactive or HBV DNA detected) or hepatitis C (HCV antibody positive and/or HCV RNA is detected).
+18)	Known history of human immunodeficiency virus (HIV).
+19)	Active infection requiring systemic therapy.
+20)	Pregnancy or lactating female;
+21)	Other serious illness or medical condition potentially interfering with the study.
+E.4 Principal exclusion criteria (it): 1.	Meccanismi di azione off target, come mutazioni o amplificazione di altri geni, cambiamenti dell'istologia, ecc.
+2.	Valutazioni di laboratorio come segue:
+a)	Conta assoluta dei neutrofili <1.5 × 109/L.
+b)	Conta piastrinica <100 × 109/L.
+c)	Emoglobina <9 g/dL (la trasfusione è accettabile se soddisfa questo criterio).
+d)	Creatinina sierica =1.5 il limite superiore di normalità istituzionale (ULN) OPPURE clearance della creatinina misurata o calcolata (la velocità di filtrazione glomurulare può essere utilizzata anche al posto della creatinina o CrCl) <50 mL/min per soggetti con livelli di creatinina >1.5 l’ULN istituzionale. 
+e)	Aspartato aminotransferasi, alanina aminotransferasi e fosfatasi alcalina >2.5 l’ULN. I soggetti con 1) metastasi ossee e 2) metastasi non al parenchima epatico agli esami radiografici dello screening possono essere arruolati se la fosfatasi alcalina è <5 l’ULN. I soggetti con metastasi al parenchima epatico agli esami radiografici dello screening possono essere arruolati se l’aspartato aminotransferasi e l’alanina aminotransferasi sono >2.5 l’ULN solo in seguito all’approvazione del medical monitor.
+f)	Bilirubina totale =1.5 l’ULN.
+g)	L’INR o tempo di protrombina (PT) >1.5 l’ULN.
+h)	Tempo di tromboplastina parziale attivata (aPTT) >1.5 l’ULN.
+3.	Farmaci antitumorali o farmaci sperimentali nei seguenti intervalli:
+a) <14 giorni per chemioterapia, terapia mirata con piccole molecole o radioterapia.
+b) <28 giorni o 5 emivite (a seconda di quale sia più lunga) prima della prima dose della terapia combinata sperimentale.
+4.	Soggetti con precedente evento avverso di grado 3 o 4 al trattamento anti-EGFR, anche se la tossicità è correlata solo ad anomalie di laboratorio e il soggetto è asintomatico.
+5.	Storia o presenza al basale di malattia interstiziale polmonare, polmonite correlata al farmaco o polmonite da radiazioni.
+6.	Soggetti che non si sono ripresi adeguatamente dalla tossicità e/o dalle complicanze dell'intervento chirurgico prima dell'inizio della terapia.
+7.	Evidenza o storia di malattia polmonare interstiziale o polmonite non infettiva attiva.
+8.	Farmaci concomitanti con potenti inibitori o induttori di CYP2C8 e CYP3A4.
+9.	Evidenza di metastasi attive del SNC.
+10.	Malattia cardiovascolare significativa, incontrollata o attiva,
+11.	Intervento chirurgico maggiore entro 30 giorni dalla prima dose di brigatinib. Sono consentite procedure chirurgiche minori come il posizionamento del catetere o biopsie minimamente invasive.
+12.	Un'altra neoplasia primaria diversa dal NSCLC, ad eccezione del cancro della pelle non melanoma adeguatamente trattato o del cancro cervicale in situ; carcinoma prostatico non metastatico trattato definitivamente; o pazienti con un altro tumore maligno primario che sono definitivamente liberi da recidiva con almeno 3 anni trascorsi dalla diagnosi dell'altro tumore primario.
+13.	Metastasi sintomatiche del SNC (parenchimali o leptomeningee). Possono essere arruolati pazienti con metastasi asintomatiche del SNC o che hanno sintomi stabili che non hanno richiesto un aumento della dose di corticosteroidi per controllare i sintomi negli ultimi 7 giorni prima della prima dose di brigatinib.
+14.	Attuale compressione del midollo spinale (sintomatica o asintomatica e rilevata mediante imaging radiografico). Sono ammessi pazienti con malattia leptomeningea e senza compressione del midollo.
+15.	Incapacità di deglutire il cibo o qualsiasi condizione del tratto gastrointestinale superiore che precluda la somministrazione di farmaci per via orale.
+16.	Storia nota di epatite B o positività al test dell’epatite B (HBsAg reattivo o HBV DNA rilevato) o dell’epatite C (anticorpo HCV positivo e/o HCV RNA rilevato).
+17.	Storia nota di HIV.
+18.	Infezione attiva che richiede una terapia sistemica.
+19.	Donne in gravidanza o in allattamento.
+20.	Altre gravi malattie o condizioni mediche che potenzialmente interferiscono con lo studio.
+E.5 End points
+E.5.1 Primary end point(s): ·	Phase 1: Safety and tolerability will be assessed by monitoring the frequency, duration, and severity of adverse events (AEs) through physical examination, changes in vital signs and ECGs, and through clinical laboratory blood and urine sample evaluations.
+·	Phase 2: Objective response rate, defined as the percentage of subjects having a complete response (CR) or partial response (PR), will be determined by investigator assessment of radiographic disease as per RECIST v1.1.
+E.5.1 Primary end point(s) (it): Endpoints primari
+Fase 1: La sicurezza e la tollerabilità saranno valutate monitorando la frequenza, la durata e la severità degli eventi avversi (EA) attraverso l'esame obiettivo, i cambiamenti nei segni vitali, negli ECG e attraverso valutazioni cliniche di laboratorio delle analisi del sangue e dei campioni di urina.
+Fase 2: Il tasso di risposta obiettiva (ORR), definito come la percentuale di pazienti che hanno una risposta completa (CR) o una risposta parziale (PR), sarà valutato dallo sperimentatore mediante imaging in accordo ai criteri RECIST 1.1.
+E.5.1.1 Timepoint(s) of evaluation of this end point: Phase 1: Continuous - at each medical examination of the patient
+
+Phase 2 :  Continuous -every 8 weeks ± 7 days for the first 12 months and then every 12 weeks ± 7 days
+E.5.1.1 Timepoint(s) of evaluation of this end point (it): Fase 1: continuativo - ad ogni visita medica del paziente
+Fase 2: continuativo  - ogni 8 settimane ± 7 giorni nei primi 12 mesi e poi ogni 12 settimane ±7 giorni
+E.5.2 Secondary end point(s): ·	Phase 1: Objective response rate, defined as the percentage of subjects having a complete response (CR) or partial response (PR), will be determined by investigator assessment of radiographic disease as per RECIST v1.1
+·	Phase 2: Safety and tolerability will be assessed by monitoring the frequency, duration, and severity of adverse events (AEs), through physical examinations, changes in vital signs and ECGs, and through clinical laboratory blood and urine sample evaluations
+·	Phase 2: Progression-free survival, defined as the time from date of first dose of study drug until the earliest date of disease progression, as determined by investigator assessment of objective radiographic disease assessments per RECIST v1.1, or death due to any cause, if occurring sooner than progression.
+E.5.2 Secondary end point(s) (it): Endpoints secondari
+Fase 1: Il tasso di risposta obiettiva (ORR), definito come la percentuale di pazienti che hanno una risposta completa (CR) o una risposta parziale (PR), sarà valutato dallo sperimentatore mediante imaging in accordo ai criteri RECIST 1.1.
+Fase 2: La sicurezza e la tollerabilità saranno valutate monitorando la frequenza, la durata e la severità degli eventi avversi (EA) attraverso l'esame obiettivo, i cambiamenti nei segni vitali, negli ECG e attraverso valutazioni cliniche di laboratorio delle analisi del sangue e dei campioni di urina.
+Fase 2: Sopravvivenza libera da progressione, definita come il tempo dalla data della prima dose del farmaco in studio fino alla prima data di progressione della malattia, come valutato dallo sperimentatore mediante imaging in accordo ai criteri RECIST 1.1, o morte per qualsiasi causa, se si verifica prima della progressione.
+E.5.2.1 Timepoint(s) of evaluation of this end point: Phase 1: Continuous -every 8 weeks ± 7 days for the first 12 months and then every 12 weeks ± 7 days
+
+
+Phase 2 :  Continuous - at each medical examination of the patient
+Phase 2: Continuous -every 8 weeks ± 7 days for the first 12 months and then every 12 weeks ± 7 days
+E.5.2.1 Timepoint(s) of evaluation of this end point (it): Fase 1: continuativo  - ogni 8 settimane ± 7 giorni nei primi 12 mesi e poi ogni 12 settimane ±7 giorni
+
+Fase 2: continuativo - ad ogni visita medica del paziente
+Fase 2: : continuativo  - ogni 8 settimane ± 7 giorni nei primi 12 mesi e poi ogni 12 settimane ±7 giorni
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Yes
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: Yes
+E.7.1.3.1 Other trial type description: to test the safety and tolerability of the association of brigatinib and cetuximab
+E.7.1.3.1 Other trial type description (it): testare la sicurezza e la tollerabilità dell'associazione di brigatinib e cetuximab
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: No
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 1
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: No
+E.8.4.1 Number of sites anticipated in Member State concerned: 1
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: LVLS
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial (it): LVLS
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 2
+E.8.9.1 In the Member State concerned months: 6
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 2
+E.8.9.2 In all countries concerned by the trial months: 6
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 32
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 16
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 48
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 48
+F.4.2.2 In the whole clinical trial: 48
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): If a patient discontinues treatment prior to radiologic progression, then the patient should still continue to be followed until confirmed objective disease progression.
+Following confirmed progression, patients should continue to be followed up for survival every 3 months (12 weeks) till 2 years from last patient first visit
+SAEs must be collected and reported during the study and for up to 100 days after the last dose of study medication
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition) (it): Se un paziente interrompe il trattamento prima della progressione radiologica, allora il paziente deve continuare ad essere seguito fino alla conferma della progressione obiettiva della malattia.
+Dopo la progressione confermata, i pazienti devono continuare a essere seguiti per la sopravvivenza ogni 3 mesi (12 settimane) fino a 2 anni dalla prima visita dell'ultimo paziente.
+I SAE devono essere raccolti e riportati durante lo studio e fino a 100 giorni dopo l'ultima dose del farmaco in studio
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2021-08-02
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2021-03-23
+
+P. End of Trial
+P. End of Trial Status: Prematurely Ended
+P. Date of the global end of the trial: 2023-05-05
+
