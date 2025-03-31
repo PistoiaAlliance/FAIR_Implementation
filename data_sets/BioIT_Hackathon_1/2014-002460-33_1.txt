@@ -1,0 +1,376 @@
+This file contains full details on each clinical trial selected for download. Where multi-state trials have been downloaded full information for each of the member states/countries involved in the trial are included separately.
+
+Summary
+EudraCT Number: 2014-002460-33
+Sponsor's Protocol Code Number: 005-IRCC-10IIS-14
+National Competent Authority: Italy - Italian Medicines Agency 
+Clinical Trial Type: EEA CTA
+Trial Status: Ongoing
+Date on which this record was first entered in the EudraCT database: 2014-07-10
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2014-002460-33/IT/
+
+A. Protocol Information
+A.1 Member State Concerned: Italy - Italian Medicines Agency
+A.2 EudraCT number: 2014-002460-33
+A.3 Full title of the trial: ANTI MEK THERAPY WITH REFAMETINIB TO PREVENT RESISTANCE TO EGFR-TARGETED TREATMENT IN METASTATIC COLORECTAL CANCERS
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: COMBINATION OF REFAMETINIB AND CETUXIMAB IN METASTATIC COLORECTAL CANCER TO PREVENT RESISTANCE. 
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language (it): INIBIZIONE DI MEK CON REFAMETINIB (BAY 86-9766) PER PREVENIRE LA RESISTENZA ALLE TERAPIE TARGET CONTRO EGFR NEL CARCINOMA METASTATICO DEL COLON RETTO
+A.3.2 Name or abbreviated title of the trial where available: ARES
+A.4.1 Sponsor's protocol code number: 005-IRCC-10IIS-14
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: FONDAZIONE DEL PIEMONTE PER L'ONCOLOGIA - IRCCS
+B.1.3.4	Country: Italy
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: BAYER PHARMA AG
+B.4.2 Country: United States
+B.4.1 Name of organisation providing support: AIRC ASSOCIAZIONE ITALIANA RICERCA SUL CANCRO
+B.4.2 Country: Italy
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: ISTITUTO DI CANDIOLO-FPO IRCCS
+B.5.2 Functional name of contact point: CLINICAL TRIAL OFFICE
+B.5.3 Address
+B.5.3.1 Street Address: S.P. 142 KM 3.95
+B.5.3.2 Town/ city: CANDIOLO
+B.5.3.3 Post code: 10060
+B.5.3.4 Country: Italy
+B.5.4 Telephone number: +390119933842
+B.5.5 Fax number: +390119933318
+B.5.6 E-mail: cosimo.martino@ircc.it
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Erbitux
+D.2.1.1.2 Name of the Marketing Authorisation holder: Merck KGaA
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: CETUXIMAB
+D.3.9.1 CAS number: 205923-56-4
+D.3.9.2 Current sponsor code: RO5469926
+D.3.9.4 EV Substance Code: SUB01178MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Refametinib
+D.3.2 Product code: BAY 86-9766, tablet 30mg
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Refametinib
+D.3.9.1 CAS number: 923032-37-5
+D.3.9.2 Current sponsor code: BAY 86-9766
+D.3.9.3 Other descriptive name: RDEA 119
+D.3.9.4 EV Substance Code: SUB130524
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 30 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Refametinib
+D.3.2 Product code: BAY 86-9766, tablet 50mg
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Refametinib
+D.3.9.1 CAS number: 923032-37-5
+D.3.9.2 Current sponsor code: BAY 86-9766
+D.3.9.3 Other descriptive name: RDEA 119
+D.3.9.4 EV Substance Code: SUB130524
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 50 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: metastatic colorectal carcinoma (mCRC)
+E.1.1 Medical condition(s) being investigated (it): Carcinoma metastatico del colon-retto
+E.1.1.1 Medical condition in easily understood language: intestinal tumor
+E.1.1.1 Medical condition in easily understood language (it): tumore dell'intestino
+E.1.1.2 Therapeutic area: Diseases [C] - Cancer [C04]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 17.0
+E.1.2 Level: HLT
+E.1.2 Classification code: 10010023
+E.1.2 Term: Colorectal neoplasms malignant
+E.1.2 System Organ Class: 100000004864
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: ARES trial seeks to establish whether a double blockade of the EGFR/MAPK pathway, achievable by combining cetuximab with the MEK inhibitor refametinib, could prevent or treat EGFR-directed secondary resistance in metastatic colorectal cancer. 
+for ARES 0: Define the RP2D of refametinib + CET 
+for ARES 1: Shift 35% of the SD patients in the OR category.
+for ARES 2: Increase Disease Control rate from 15% to 40%
+E.2.1 Main objective of the trial (it): Definire l'attività antitumorale della combinazione cetuximab e refametinib nella prevenzione dell'insorgenza di resistenze secondare ai trattamenti diretti contro EGFR
+E.2.2 Secondary objectives of the trial: for ARES 0: Signals of activity 
+for ARES 1: Increased Time To Progression, Safety of refametinib + CET in anti EGFR treatment-naïve patients.
+for ARES 2: Safety of refametinib + CET after EGFR directed treatment
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Patients must have pathologically confirmed metastatic colorectal cancer, which has recurred or progressed following oxaliplatin and irinotecan-based chemotherapy regimens administered for the treatment of metastatic disease, except if the patient was not a candidate for either agent or refused treatment with oxaliplatin or irinotecan. Prior antiangiogenic treatment with bevacizumab or regorafenib or other antiangiogenic agents is allowed but not mandatory. 
+MANDATORY PRIOR ANTI-EGFR THERAPY
+ARES 0	Indifferent 
+ARES 1	None
+ARES 2	Mandatory 
+
+2. The patient tumor molecular profile results must be known prior to study entry. 
+
+MANDATORY MOLECULAR PROFILE
+ARES 0 ‘quintuple wild-type’,  or  KRAS codon 61 or NRAS codon 12,13 or 61 or BRAF V600E mutated
+ARES 1 ‘quintuple wild-type’and NO amplification of  MET, HER2 and RAS
+ARES 2 ‘quintuple wild-type’, EGFR S492R WT, NO amplification of HER2 and RAS. Knowledge of the status of MET GCN is required but not mandatory.
+
+3. Patients must be willing to undergo pre-and post-treatment tumor biopsies if disease amenable to biopsy. However, failure to retrieve pathological sample on biopsy does not exclude patient from the trial.
+4. Patients must have completed any major surgery chemotherapy, radiation therapy, or biologic therapy greater than or equal to 4 weeks prior to entering the study (6 weeks for nitrosoureas or mitomycin C). Patients must be greater than or equal to 2 weeks since any prior administration of a study drug in an exploratory IND/Phase 0 study. Patients must have recovered to eligibility levels from any prior surgery, toxicity, or adverse events.
+5. Age greater than or equal to 18 years.
+6. Life expectancy of greater than 3 months.
+7. ECOG performance status less than 2.
+8. Patients must have normal organ and marrow function as defined below:
+• Absolute neutrophil count >1.500/uL;
+• Platelets > 100.000/Ul
+• Haemoglobin > 8,5 g/dL
+• Prothrombin time-international normalized ratio (PT-INR) ≤2.3, or PT ≤6 seconds above control.
+• Patients who are therapeutically anti-coagulated with an agent such as warfarin or heparin are allowed to participate provided that no prior evidence of underlying abnormality in these parameters exists. Close monitoring of at least weekly evaluations will be performed until INR is stable based on a measurement at pre-dose, as defined by the local standard of care. 
+9. Total bilirubin less than or equal to 1.5 times institutional UNL.
+10. AST/ALT less than or equal to 3.0 times institutional UNL; less than or equal to 5.0 times institutional UNL if liver metastases.
+11. Creatinine less than 1.5 times UNL; or measured creatinine greater than or equal to 60 mL/minute for patients with clearance creatinine levels greater than or equal to 1.5 times UNL
+12. Albumin > 2.8 g/dL
+13. Amylase and lipase < 1.5 x ULN
+14. Women of child-bearing potential must have a negative pregnancy test prior to entry.
+15. Adequate contraception patient and partner (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 4 weeks after dosing with study medication ceases. 
+16. Patients must be able to swallow whole tablets and capsules. 
+17. Ability to understand and the willingness to sign a written informed consent document.
+
+E.4 Principal exclusion criteria: 1. Previous treatment with a MEK inhibitor.
+2. Prior treatment with an anti-EGFR antibody or TKI agent (for ARES 1 and ARES 1 only).
+3. Patients receiving any other investigational agents.
+4. Patients who have had chemotherapy or radiotherapy within 4 weeks prior to entering the study.
+5. Participation in another clinical trial or treatment with any investigational product within 4 weeks prior to inclusion in this study.
+6. Patients with history of hypersensitivity to, either IP or IP classes or excipients or monoclonal antibodies.
+7. Acute steroid therapy or taper for any purpose (chronic steroid therapy is acceptable provided that the dose is stable for 1 month before start of screening and thereafter).
+8. Current evidence of retinal disease, history of central serous retinopathy (CSR) and or retinal vein occlusion (RVO), or visible retinal pathology as assessed by ophthalmology that is considered a risk factor for RVO or CSR.
+9. Abnormalities of the cornea based on history (e.g., dry eye syndrome, Sjogren’s syndrome), congenital abnormality (e.g. Fuchs’ dystrophy). 
+10. Symptomatic or untreated leptomeningeal disease or brain metastases.
+11. Not adequate hematologic, renal and hepatic function including renal failure requiring hemo- or peritoneal dialysis.
+12. Gastrointestinal tract disease resulting in an inability to take oral medication or a requirement for IV alimentation, prior surgical procedures affecting absorption, or active peptic ulcer disease.
+13. Subjects who have current active hepatic or biliary disease (with exception of patients with Gilbert's syndrome, asymptomatic gallstones, liver metastases or stable chronic liver disease per investigator assessment).
+14. History of cardiac disease: instable angina (angina symptoms at rest, new-onset angina i.e. within the last 3 months) or myocardial infarction (MI) within the past 6 months prior to start of screening.
+15. Cardiac arrhythmias requiring anti-arrhythmic therapy or CHF (Chronic Heart Failure of NYHA grade two or higher.)
+16. Uncontrolled hypertension already on optimal medication.
+17. Ongoing infection > Grade 2 according to NCI-CTCAE version 4.03. 
+18. Known human immunodeficiency virus (HIV) infection.
+19. History of interstitial lung disease (ILD).
+20. Clinically significant GI bleeding (CTCAE 4.03 grade 3 or higher) within 30 days prior to start of screening.
+21. Thrombotic or embolic events such as cerebrovascular accident (including transient ischemic attacks) within 6 months prior to start of screening.
+22. History of organ allograft, cornea transplantation will be allowed.
+23. Non-healing wound, ulcer, or bone fracture.
+24. Patients with seizure disorder requiring medication.
+25. Substance abuse, medical, psychological or social conditions that may interfere with the patient’s participation in the study or evaluation of the study results.
+26. Any condition that was unstable or which could jeopardize the safety of the patient and his/her compliance in the study.
+27. Patient unable to comply with the study protocol owing to psychological, social or geographical reasons.
+28. History of severe infusion reactions to monoclonal antibodies.
+29. Pregnant and lactating women.
+30. Any cancer curatively treated < 3 years prior to study entry, except cervical carcinoma in situ, treated basal cell carcinoma, and superficial bladder tumors (Staging: Ta, Tis and T1).
+31. Use of strong inhibitors of CYP3A4 and strong inducers of CYP3A4 should be stopped 2 weeks before start of treatment
+E.5 End points
+E.5.1 Primary end point(s): for ARES 0: DLTs cycle 1 TRAEs by NCI-CTCAE v 4.0
+for ARES 1: Tumor response by RECIST v1.1
+for ARES 2: Disease control by RECIST v1.1
+E.5.1.1 Timepoint(s) of evaluation of this end point: for ARES 0: safety weekly; 
+for ARES 1: every 8 weeks with >/= 4weeks for response confirmation as per RECIST v1.1
+for ARES 2: every 8 weeks with >/= 4weeks for response confirmation as per RECIST v1.1
+E.5.2 Secondary end point(s): for ARES 0: OR by RECIST v1.1
+for ARES 1: TTP, DOR TRAEs by NCI-CTCAE v 4.0
+for ARES 2: TTP, DOR TRAEs by NCI-CTCAE v 4.0
+
+E.5.2.1 Timepoint(s) of evaluation of this end point: for ARES 0: every 8 weeks with >/= 4weeks for response confirmation as per RECIST v1.1
+for ARES 1: efficacy at progression, safety bi-weekly
+for ARES 2: efficacy at progression, safety bi-weekly
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: Yes
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Yes
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: Yes
+E.7.1.3.1 Other trial type description: Phase Ib
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: No
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 7
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Study end : LVLS 6 months after LPO 
+Occasional responders might be treated until relapse for longer periods.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 3
+E.8.9.1 In the Member State concerned months: 
+E.8.9.1 In the Member State concerned days: 
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 83
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 40
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 123
+F.4.2 For a multinational trial
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): as per clinical practice
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2014-10-23
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2014-09-26
+
+P. End of Trial
+P. End of Trial Status: Ongoing
+
